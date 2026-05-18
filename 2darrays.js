@@ -7,4 +7,7 @@ console.log(theaterSeating);
 let contactsList = [["Name", "Email", "Phone"], ["Alice", "alicelastname@gnmail.com", 2345656667], ["Ava", "lastneameava@gmail.com", 2346532454]];
 console.log(contactsList);
 
+let array = [1,2,3];
+console.log(array);
+
 
